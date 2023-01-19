@@ -21,22 +21,22 @@ https://github.com/festusbetd/ICS-3102---ASSIGNMENT-1-2/tree/main/ICS%203102%20A
 SCREEN 1
 ==============
 
-https://github.com/festusbetd/Symptom-Prediction-Chatbot-Project/blob/main/screens/Screenshot_20230119_165609.png
+![Alt text](https://github.com/festusbetd/Symptom-Prediction-Chatbot-Project/blob/main/screens/Screenshot_20230119_165609.png?raw=true "SCREEN 1")
 
 SCREEN 2
 ==============
 
-https://github.com/festusbetd/Symptom-Prediction-Chatbot-Project/blob/main/screens/Screenshot_20230119_165641.png
+![Alt text](https://github.com/festusbetd/Symptom-Prediction-Chatbot-Project/blob/main/screens/Screenshot_20230119_165641.png?raw=true "SCREEN 2")
 
 SCREEN 3
 ==============
 
-https://github.com/festusbetd/Symptom-Prediction-Chatbot-Project/blob/main/screens/Screenshot_20230119_165657.png
+![Alt text](https://github.com/festusbetd/Symptom-Prediction-Chatbot-Project/blob/main/screens/Screenshot_20230119_165657.png?raw=true "SCREEN 3")
 
 SCREEN 4
 ==============
 
-https://github.com/festusbetd/Symptom-Prediction-Chatbot-Project/blob/main/screens/Screenshot_20230119_165733.png
+![Alt text](https://github.com/festusbetd/Symptom-Prediction-Chatbot-Project/blob/main/screens/Screenshot_20230119_165733.png?raw=true "SCREEN 4")
 
 END
 ==============
