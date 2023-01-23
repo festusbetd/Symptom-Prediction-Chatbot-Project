@@ -349,6 +349,7 @@ def get_bot_response():
         session['step'] = "age"
         return "How old are you? "
     if session["step"] == "age":
+        
         session["age"] = int(s)
         session["step"] = "gender"
         return "Can you specify your gender ?"

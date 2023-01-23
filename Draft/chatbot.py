@@ -10,7 +10,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import json
 
-with open('../Medical_dataset/intents_short.json', 'r') as f:
+with open('Medical_dataset/intents_short.json', 'r') as f:
     intents = json.load(f)
     
 intents
